@@ -16,6 +16,9 @@ Penultima ideas is the penultimate collection of penultima ideas.
 ![image](https://user-images.githubusercontent.com/7326939/125839028-c3966e82-c92e-4fc4-8c49-0e9a5734ca2f.png)
 ![image](https://user-images.githubusercontent.com/7326939/125839068-b33dfe8a-cfb1-4114-b124-495f2f7fc99f.png)
 
+#### Rochade
+* Rochade in beliebige Richtung (X⬜️⬜️Y->⬜️YX⬜️ oder X⬜️⬜️⬜️Y->⬜️⬜️YX⬜️) 
+
 ## Passive Rules
 
 #### Corona
@@ -25,6 +28,9 @@ Penultima ideas is the penultimate collection of penultima ideas.
   * after spreading the own virus the piece is immune
   * after spreading the enemy virus the piece dies
 
+#### Puffmutter
+- Nimmt alle Bauern mit, die in 8-Nachbarschaft zur Startposition stehen
+- Wenn ein Bauer so auf einem besetzten Feld landen würde, dann bleibt er stattdessen auf dem Feld davor stehen
 
 ## Complete Pieces
 
