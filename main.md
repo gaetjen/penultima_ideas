@@ -20,4 +20,11 @@
   * after spreading the own virus the piece is immune
   * after spreading the enemy virus the piece dies
 
+#### Medium (Blutopfer): Inv☑️, FF❌
+* Figur: Bauer
+* Spielvorbereitung: 1 Schale pro Spieler. Davor stehen die 3 Geister (je 1 Läufer, Springer und Turm)
+* Sonderregel: Wenn eine "Geist-Figur" geschlagen wird, wird sie in die Schale ihres Besitzers gelegt.
+* Invoke: Medium opfert sich und legt einen Geist in die Schale
+* Bewegung: hat Bewegungsoptionen von allen Figuren in seiner Schale
+
 ## Complete Pieces
