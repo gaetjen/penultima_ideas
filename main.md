@@ -1,5 +1,8 @@
 # Penultima Rules Ideas
 
+♔ ♕ ♗ ♘ ♖ ♙
+♚ ♛ ♝ ♞ ♜ ♟
+
 ## Invoke Rules
 
 ## Movement Rules
