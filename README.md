@@ -43,6 +43,16 @@ Penultima ideas is the penultimate collection of penultima ideas.
 * You may want to agree with other rule-makers, that double agents can always be captured by their own color, even by pieces without friendly fire.
 * You may want to use a non-standard board setup, e.g. having the starting positions of the double agents closer to the centre of the board.
 
+#### Frozone
+
+* Covers the cells it moves across with ice
+* Pieces that would move onto an ice-covered cell instead continue moving until they move onto a not-covered cell or hit a wall or another piece.
+* reference to the character from The Incredibles
+
+#### Medusa
+
+* If you try to use a Medusa you must put on a blindfold until your next turn
+
 ## Complete Pieces
 
 #### :poop: Not a pawn
