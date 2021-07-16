@@ -17,7 +17,10 @@ Penultima ideas is the penultimate collection of penultima ideas.
 ![image](https://user-images.githubusercontent.com/7326939/125839068-b33dfe8a-cfb1-4114-b124-495f2f7fc99f.png)
 
 #### Rochade
-* Rochade in beliebige Richtung (X⬜️⬜️Y->⬜️YX⬜️ oder X⬜️⬜️⬜️Y->⬜️⬜️YX⬜️) 
+* Can only move as if castling (german: "Rochade"):
+  * either: <code>⬜️♙⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️</code>
+  * or: <code>⬜️♙⬜️⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️⬜️</code>
+* => cannot capture pieces
 
 ## Passive Rules
 
@@ -29,14 +32,13 @@ Penultima ideas is the penultimate collection of penultima ideas.
   * after spreading the enemy virus the piece dies
 
 #### Puffmutter
-- Nimmt alle Bauern mit, die in 8-Nachbarschaft zur Startposition stehen
-- Wenn ein Bauer so auf einem besetzten Feld landen würde, dann bleibt er stattdessen auf dem Feld davor stehen
+* when moving all 8-adjacent pawns move along as well
+* pawn's relative position to the Puffmutter remains the same. When a pawn would land on an occupied square then it stops on the preceding square
 
 ## Complete Pieces
 
 #### :poop: Not a pawn
-
-Moves like a pawn. Captures like a pawn. Is a pawn. Very deceptive!
+* Moves like a pawn. Captures like a pawn. Is a pawn. Very deceptive!
 
 #### Medium (Blutopfer): Inv☑️, FF❌
 * Figur: Bauer
