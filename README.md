@@ -43,7 +43,7 @@ Penultima ideas is the penultimate collection of penultima ideas.
 
 #### Frozone
 
-* Covers the cells it moves across with ice
+* Covers the cells it moves across with ice, ice may melt after x turns
 * Pieces that would move onto an ice-covered cell instead continue moving until they move onto a not-covered cell or hit a wall or another piece.
 * reference to the character from The Incredibles
 
