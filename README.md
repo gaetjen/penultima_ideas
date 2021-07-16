@@ -36,10 +36,34 @@ Penultima ideas is the penultimate collection of penultima ideas.
 * when moving all 8-adjacent pawns move along as well
 * pawn's relative position to the Puffmutter remains the same. When a pawn would land on an occupied square then it stops on the preceding square
 
+#### Double Agent
+
+* Can be moved by either player.
+* Clarify with the other players the exact definition for "friendly fire", in order to avoid confusion.
+* You may want to agree with other rule-makers, that double agents can always be captured by their own color, even by pieces without friendly fire.
+* You may want to use a non-standard board setup, e.g. having the starting positions of the double agents closer to the centre of the board.
+
 ## Complete Pieces
 
 #### :poop: Not a pawn
 * Moves like a pawn. Captures like a pawn. Is a pawn. Very deceptive!
+
+#### Duo
+
+* Piece: ♙
+* Movement: 1 or 2 cells vertically (either direction), cannot capture.
+* Passive: After every turn on a same color cell one copper gets mined, can store up to 2 copper pieces.
+* Invoke: Consume one copper to shoot at another piece. Roll a d6 to decide whether the shot was a success. See diagram below for minimum roll needed for success.
+* is a reference to the basic tower in Mindustry
+
+```
+6 6 6 6
+5 5 5 6 6 
+4 4 4 5 6 6
+3 3 3 4 5 6
+2 2 3 4 5 6
+♙2 3 4 5 6
+```
 
 #### Medium (Blutopfer): Inv☑️, FF❌
 * Figur: Bauer
