@@ -18,10 +18,10 @@ Penultima ideas is the penultimate collection of penultima ideas.
 ### Movment Rule Ideas
 
 #### Rochade
-* Can only move as if castling (german: "Rochade"):
-  * either: <code>⬜️♙⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️</code>
-  * or: <code>⬜️♙⬜️⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️⬜️</code>
-* => cannot capture pieces
+* Can only move as if castling (German: "Rochade"):
+  * either: `⬜️♙⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️`
+  * or: `⬜️♙⬜️⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️⬜️`
+* &rarr; cannot capture pieces
 
 ## Passive Rules
 
