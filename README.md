@@ -73,7 +73,7 @@ Penultima ideas is the penultimate collection of penultima ideas.
 ♙2 3 4 5 6
 ```
 
-#### Cultist/Medium: Inv☑️, FF❌
+#### Cultist/Medium (Inv☑️, FF❌)
 * Piece: ♙
 * Before the game: prepare one bowl for each player. Place the three ghosts in front of the bowl (i.e. 1x♗, 1x♘, 1x♖)
 * Invoke:
@@ -81,3 +81,28 @@ Penultima ideas is the penultimate collection of penultima ideas.
   * narrate something like: "the cultist performs a bloodsacrifice and summons a ghost"
   * the active player chooses a ghost and puts it into the bowl
 * Movement: the Cultist/Medium can move like any ghost that has been summoned for their team (i.e. the standard movement for bishop, knight and rook)
+
+#### Schlangemann (Inv☑️, FF☑️)
+* Piece: ♗ or ♘ (must be able to determine the piece's front)
+* Movement: 45° turn (optional), then move one square forward
+* Invoke: 
+  * Schlangemann's penis size increases by 1 (max. 3)
+  * attach some kind of penis of that size to the piece 
+  * depending on size say: "Normaaaal" (1), "Groooß" (2) or "Gigaaantisch" (3)
+* Schlangemann captures every piece on a squares that are covered by his penis
+
+```
+3
+2
+1
+♘ straight
+
+▢ ▢ 3 
+▢ 1 ▢
+♘▢ ▢ diagonal
+
+3 3 ▢▢
+2 2 3 ▢
+1 1 2 3
+♘1 2 3 turning
+```
