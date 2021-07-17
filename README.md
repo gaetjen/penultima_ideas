@@ -80,4 +80,4 @@ Penultima ideas is the penultimate collection of penultima ideas.
   * the invoked Cultist/Medium gets captured.
   * narrate something like: "the cultist performs a bloodsacrifice and summons a ghost"
   * the active player chooses a ghost and puts it into the bowl
-* Movement: the Cultist/Medium can move like any ghost that has been summoned for their team
+* Movement: the Cultist/Medium can move like any ghost that has been summoned for their team (i.e. the standard movement for bishop, knight and rook)
