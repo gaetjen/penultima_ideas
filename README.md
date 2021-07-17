@@ -64,10 +64,10 @@ Penultima ideas is the penultimate collection of penultima ideas.
 
 ## Complete Pieces
 
-#### :poop: Not a pawn
+#### :poop: Not a pawn (Inv❌, FF❌)
 * Moves like a pawn. Captures like a pawn. Is a pawn. Very deceptive!
 
-#### Duo
+#### Duo (Inv☑️, FF☑️)
 
 * Piece: ♙
 * Movement: 1 or 2 cells vertically (either direction), cannot capture.
