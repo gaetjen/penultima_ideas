@@ -73,9 +73,11 @@ Penultima ideas is the penultimate collection of penultima ideas.
 ♙2 3 4 5 6
 ```
 
-#### Medium (Blutopfer): Inv☑️, FF❌
-* Figur: Bauer
-* Spielvorbereitung: 1 Schale pro Spieler. Davor stehen die 3 Geister (je 1 Läufer, Springer und Turm)
-* Sonderregel: Wenn eine "Geist-Figur" geschlagen wird, wird sie in die Schale ihres Besitzers gelegt.
-* Invoke: Medium opfert sich und legt einen Geist in die Schale
-* Bewegung: hat Bewegungsoptionen von allen Figuren in seiner Schale
+#### Cultist/Medium: Inv☑️, FF❌
+* Piece: ♙
+* Before the game: prepare one bowl for each player. Place the three ghosts in front of the bowl (i.e. 1x♗, 1x♘, 1x♖)
+* Invoke:
+  * the invoked Cultist/Medium gets captured.
+  * narrate something like: "the cultist performs a bloodsacrifice and summons a ghost"
+  * the active player chooses a ghost and puts it into the bowl
+* Movement: the Cultist/Medium can move like any ghost that has been summoned for their team
