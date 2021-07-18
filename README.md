@@ -19,7 +19,7 @@ Ability classifications can be a starting-off point for coming up with new rules
   * example: [Puffmutter](#puffmutter)
 * Tinker: create pieces on the board that cannot be controlled directly, but can be interacted with.
 * Blaster / Striker: capture or affect pieces at a distance (blaster) or adjacent (striker) to your piece
-* Trump: grant or suppress abilities of other pieces
+* Trump: manipulate other pieces' abilities, by empowering or suppressing them, or gaining other pieces' abilities
   * example: [Cultist/Medium](#cultistmedium-invheavy_check_mark-ffx)
 * Stranger: give one player an information advantage
   * example: [Medusa](#medusa)
