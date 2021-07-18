@@ -44,7 +44,7 @@ Ability classifications can be a starting-off point for coming up with new rules
 * recommended pieces: ♗ ♘ ♖ (adjust movement points for other pieces)
 * the Explorer starts a turn with 3 **movement points**
 * every square has **movement costs** (see below)
-* the Explorer can move to an 4-adjacent square as long as it enough any movement points left
+* the Explorer can move to a 4-adjacent square as long as it has any movement points left
 * after the Explorer moved, the active player may make another move with this Explorer; until they have no more movement points or they capture a piece.
 * at the beginning of the game the movement costs of all squares (except the Explorers' start sqares) are unknown (unexplored). Whenever an explorer intends to move onto an unexplored square its movement cost is determined by dice:
   * d6 &rarr; cost
@@ -61,7 +61,7 @@ Ability classifications can be a starting-off point for coming up with new rules
   * after spreading the enemy virus the piece dies
 
 #### Puffmutter
-* when moving all 8-adjacent pawns move along as well
+* when moving, all 8-adjacent pawns move along as well
 * pawn's relative position to the Puffmutter remains the same. When a pawn would land on an occupied square then it stops on the preceding square
 
 #### Double Agent
