@@ -13,10 +13,10 @@ Ability classifications can be a starting-off point for coming up with new rules
 * Shaker: change (parts of) the playing board
   * example: [Frozone](#frozone)
 * Brute: higher durability, immunity to damage or negative effects
-  * example: Drittelkatze
+  * example: [Drittelkatze](#drittelkatze-invx-ffx)
 * Breaker / Changer: switch between two or more states with distinct abilities
 * Master: create and/or control other pieces
-  * example: Puffmutter 
+  * example: [Puffmutter](#puffmutter)
 * Tinker: create pieces on the board that cannot be controlled directly, but can be interacted with.
 * Blaster / Striker: capture or affect pieces at a distance (blaster) or adjacent (striker) to your piece
 * Trump: grant or suppress abilities of other pieces
@@ -119,7 +119,7 @@ Ability classifications can be a starting-off point for coming up with new rules
   * Schlangemann's penis size increases by 1 (max. 3)
   * attach some kind of penis of that size to the piece 
   * depending on size say: "Normaaaal" (1), "Groooß" (2) or "Gigaaantisch" (3)
-* Schlangemann captures every piece on a squares that are covered by his penis
+* Schlangemann captures every piece on squares that are covered by his penis
 * reference: [NSFW](https://www.youtube.com/watch?v=hxgo-n-vHZk)
 
 ```
@@ -137,3 +137,8 @@ Ability classifications can be a starting-off point for coming up with new rules
 1 1 2 3
 ♘1 2 3 turning
 ```
+#### Drittelkatze (Inv:x:, FF:x:)
+
+* Piece: ♔
+* Starts with 3 lives (one third of the classic cat's nine lives).
+* If it would be captured while having more than one life, it instead loses one life and moves one cell in any direction (defender's choice).
