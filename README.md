@@ -5,6 +5,25 @@ Penultima ideas is the penultimate collection of penultima ideas.
 ♔ ♕ ♗ ♘ ♖ ♙
 ♚ ♛ ♝ ♞ ♜ ♟
 
+### Ability Classifications
+
+Ability classifications can be a starting-off point for coming up with new rules. Adapted from the superpower classifications of the [Worm](https://parahumans.wordpress.com) and [Ward](https://www.parahumans.net) web serials by Wildbow.
+
+* Mover: included for completeness, see section [Movement Rules](#movement-rules)
+* Shaker: change (parts of) the playing board
+  * example: [Frozone](#frozone)
+* Brute: higher durability, immunity to damage or negative effects
+  * example: Drittelkatze
+* Breaker / Changer: switch between two or more states with distinct abilities
+* Master: create and/or control other pieces
+  * example: Puffmutter 
+* Tinker: create pieces on the board that cannot be controlled directly, but can be interacted with.
+* Blaster / Striker: capture or affect pieces at a distance (blaster) or adjacent (striker) to your piece
+* Trump: grant or suppress abilities of other pieces
+  * example: [Cultist/Medium](#cultistmedium-invheavy_check_mark-ffx)
+* Stranger: give one player an information advantage
+  * example: [Medusa](#medusa)
+
 ## Invoke Rules
 
 ## Movement Rules
