@@ -17,8 +17,8 @@ Penultima ideas is the penultimate collection of penultima ideas.
 
 #### Rochade
 * Can only move as if castling (German: "Rochade"):
-  * either: `⬜️♙⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️`
-  * or: `⬜️♙⬜️⬜️⬜️♟⬜️ -> ⬜️⬜️♟♙⬜️⬜️⬜️`
+  * either: `⬜️♙⬜️⬜️♟⬜️ → ⬜️⬜️♟♙⬜️⬜️`
+  * or: `⬜️♙⬜️⬜️⬜️♟⬜️ → ⬜️⬜️♟♙⬜️⬜️⬜️`
 * &rarr; cannot capture pieces
 
 #### Explorer
@@ -28,8 +28,8 @@ Penultima ideas is the penultimate collection of penultima ideas.
 * the Explorer can move to an 4-adjacent square as long as it enough any movement points left
 * after the Explorer moved, the active player may make another move with this Explorer; until they have no more movement points or they capture a piece.
 * at the beginning of the game the movement costs of all squares (except the Explorers' start sqares) are unknown (unexplored). Whenever an explorer intends to move onto an unexplored square its movement cost is determined by dice:
-  * d6 -> cost
-  * (1, 2, 3, 4, 5, 6) -> (0, 1, 1, 1, 2, 2)
+  * d6 &rarr; cost
+  * (1, 2, 3, 4, 5, 6) &rarr; (0, 1, 1, 1, 2, 2)
 * when a sqare gets explored write the movement costs onto that square
 
 ## Passive Rules
@@ -101,6 +101,7 @@ Penultima ideas is the penultimate collection of penultima ideas.
   * attach some kind of penis of that size to the piece 
   * depending on size say: "Normaaaal" (1), "Groooß" (2) or "Gigaaantisch" (3)
 * Schlangemann captures every piece on a squares that are covered by his penis
+* reference: [NSFW](https://www.youtube.com/watch?v=hxgo-n-vHZk)
 
 ```
 3
