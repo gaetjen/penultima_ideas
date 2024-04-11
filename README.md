@@ -137,7 +137,22 @@ Ability classifications can be a starting-off point for coming up with new rules
 1 1 2 3
 ♘1 2 3 turning
 ```
-#### Drittelkatze (Inv:x:, FF:x:)
+
+#### Long(?)-range Missile (Inv :heavy_check_mark:, FF :x: )
+* Piece: ♗ or ♘ or ♖ (recommended) (in genereal, every piece is possible. Maybe adjust the dice, like ♙ gets a D3 or ♕ gets to reroll on 1 and 2.)
+* Invoke: roll a D6. The result is X. Place the dice near the Long(?)-range Missile.
+* Movement: Can move a distance of X. Can jump over other pieces.
+```
+6
+5 6
+4 5 6
+3 4 5 6
+2 3 4 5 6
+1 2 3 4 5 6
+♖1 2 3 4 5 6
+```
+
+#### Drittelkatze (Inv :x:, FF :x:)
 
 * Piece: ♔
 * Starts with 3 lives (one third of the classic cat's nine lives).
