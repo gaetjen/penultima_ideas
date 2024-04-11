@@ -109,7 +109,7 @@ Ability classifications can be a starting-off point for coming up with new rules
 * Invoke:
   * the invoked Cultist/Medium gets captured.
   * narrate something like: "the cultist performs a bloodsacrifice and summons a ghost"
-  * the active player chooses a ghost and puts it into the bowl
+  * the active player chooses a ghost and puts it into the bowl and removes other ghosts from the bowl (if necessary)
   * then they get an extra turn
 * Movement: the Cultist/Medium can move like any ghost that has been summoned for their team (i.e. the standard movement for bishop, knight and rook)
 
