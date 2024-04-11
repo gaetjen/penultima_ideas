@@ -83,10 +83,10 @@ Ability classifications can be a starting-off point for coming up with new rules
 
 ## Complete Pieces
 
-#### :poop: Not a pawn (Inv:x:, FF:x:)
+#### :poop: Not a pawn (Inv :x:, FF :x:)
 * Moves like a pawn. Captures like a pawn. Is a pawn. Very deceptive!
 
-#### Duo (Inv:heavy_check_mark:, FF:grey_question:)
+#### Duo (Inv :heavy_check_mark:, FF :grey_question:)
 
 * Piece: ♙
 * Movement: 1 or 2 cells vertically (either direction), cannot capture.
@@ -103,7 +103,7 @@ Ability classifications can be a starting-off point for coming up with new rules
 ♙2 3 4 5 6
 ```
 
-#### Cultist/Medium (Inv:heavy_check_mark:, FF:x:)
+#### Cultist/Medium (Inv :heavy_check_mark:, FF :x:)
 * Piece: ♙
 * Before the game: prepare one bowl for each player. Place the three ghosts in front of the bowl (i.e. 1x♗, 1x♘, 1x♖)
 * Invoke:
@@ -112,7 +112,7 @@ Ability classifications can be a starting-off point for coming up with new rules
   * the active player chooses a ghost and puts it into the bowl
 * Movement: the Cultist/Medium can move like any ghost that has been summoned for their team (i.e. the standard movement for bishop, knight and rook)
 
-#### Schlangemann (Inv:heavy_check_mark:, FF:heavy_check_mark:)
+#### Schlangemann (Inv :heavy_check_mark:, FF :heavy_check_mark:)
 * Piece: ♗ or ♘ (must be able to determine the piece's front)
 * Movement: 45° turn (optional), then move one square forward
 * Invoke: 
