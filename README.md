@@ -26,6 +26,11 @@ Ability classifications can be a starting-off point for coming up with new rules
 
 ## Invoke Rules
 
+#### Priest
+* Choose an opponent's piece in 8-adjacency. Say "Wololo". Convert the piece (i.e. capture it and gain a piece of the same type replacing it).
+* Cannot convert the opponent's ♔.
+* recommended piece: ♔ (with standard movement)
+
 ## Movement Rules
 
 #### Standard Chess Pieces
@@ -65,20 +70,17 @@ Ability classifications can be a starting-off point for coming up with new rules
 * pawn's relative position to the Puffmutter remains the same. When a pawn would land on an occupied square then it stops on the preceding square
 
 #### Double Agent
-
 * Can be moved by either player.
 * Clarify with the other players the exact definition for "friendly fire", in order to avoid confusion.
 * You may want to agree with other rule-makers, that double agents can always be captured by their own color, even by pieces without friendly fire.
 * You may want to use a non-standard board setup, e.g. having the starting positions of the double agents closer to the centre of the board.
 
 #### Frozone
-
 * Covers the cells it moves across with ice, ice may melt after x turns
 * Pieces that would move onto an ice-covered cell instead continue moving until they move onto a not-covered cell or hit a wall or another piece.
 * reference to the character from The Incredibles
 
 #### Medusa
-
 * If you try to use a Medusa you must put on a blindfold until your next turn
 
 ## Complete Pieces
@@ -87,7 +89,6 @@ Ability classifications can be a starting-off point for coming up with new rules
 * Moves like a pawn. Captures like a pawn. Is a pawn. Very deceptive!
 
 #### Duo (Inv :heavy_check_mark:, FF :grey_question:)
-
 * Piece: ♙
 * Movement: 1 or 2 cells vertically (either direction), cannot capture.
 * Passive: After every turn on a same color cell one copper gets mined, can store up to 2 copper pieces.
@@ -158,3 +159,9 @@ Ability classifications can be a starting-off point for coming up with new rules
 * Piece: ♔
 * Starts with 3 lives (one third of the classic cat's nine lives).
 * If it would be captured while having more than one life, it instead loses one life and moves one cell in any direction (defender's choice).
+
+#### Helicopter Parent
+* Piece: ♕
+* The Helicopter Parent takes the ♔ with them when moving
+* Follows the ♔ when it moves. (coordinate with the rules for ♔-piece. ♔-piece's movement shouldn't be too crazy) 
+* recommended movement: like the queen (straight and diagonal, any distance) 
