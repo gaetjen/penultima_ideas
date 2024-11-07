@@ -30,6 +30,7 @@ Ability classifications can be a starting-off point for coming up with new rules
 * Choose an opponent's piece in 8-adjacency. Say "Wololo". Convert the piece (i.e. capture it and gain a piece of the same type replacing it).
 * Cannot convert the opponent's ♔.
 * recommended piece: ♔ (with standard movement)
+* refercence to the unit in Age of Empires
 
 ## Movement Rules
 
